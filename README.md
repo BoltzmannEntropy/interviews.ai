@@ -73,3 +73,49 @@ These chapters appear alongside numerous in-depth treatments of topics in Deep L
 
 - Copyright © [Shlomo Kashani, author of the book "Deep Learning Interviews"](www.interviews.ai)
 Shlomo Kashani, Author of the book _Deep Learning Interviews_ www.interviews.ai: entropy@interviews.ai
+
+ALL RIGHTS RESERVED.
+The content contained within this book may not be reproduced, duplicated or transmitted without direct written permission
+from the author or the publisher. Under no circumstances will any blame
+or legal responsibility be held against the publisher, or author, for any damages,
+reparation, or monetary loss due to the information contained within this book.
+Either directly or indirectly. This book is copyright protected. This book is only for
+personal use. You cannot amend, distribute, sell, use, quote or paraphrase any part, or
+the content within this book, without the consent of the author or publisher.
+Please note the information contained within this document is for educational and
+entertainment purposes only. All effort has been executed to present accurate, up to
+date, and reliable, complete information. No warranties of any kind are declared or
+implied. Readers acknowledge that the author is not engaging in the rendering of
+legal, financial, medical or professional advice. The content within this book has been
+derived from various sources. Please consult a licensed professional before attempting
+any techniques outlined in this book. By reading this document, the reader agrees
+that under no circumstances is the author responsible for any losses, direct or indirect,
+which are incurred as a result of the use of information contained within this document,
+including, but not limited to errors, omissions, or inaccuracies.
+
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted
+in any form or by any means, electronic, mechanical, photocopying, recording,
+scanning, or otherwise, except as permitted under Section 107 or 108 of the 1976
+United States Copyright Act, without the prior written permission of the Publisher.
+Limit of Liability/Disclaimer of Warranty. While the publisher and author have used
+their best efforts in preparing this book, they make no representations or warranties
+with respect to the accuracy or completeness of the contents of this book and specifically
+disclaim any implied warranties of merchantability or fitness for a particular
+purpose. No warranty may be created or extended by sales representatives or written
+sales materials. The advice and strategies contained herein may not be suitable
+for your situation. You should consult with a professional where appropriate. Neither
+the publisher nor author shall be liable for any loss of profit or any other commercial
+damages, including but not limited to special, incidental, consequential, or other
+damages.
+
+Notices. Knowledge and best practice in this field are constantly changing. As new
+research and experience broaden our understanding, changes in research methods,
+professional practices, or medical treatment may become necessary. Practitioners and
+researchers must always rely on their own experience and knowledge in evaluating
+and using any information, methods, compounds, or experiments described herein.
+In using such information or methods they should be mindful of their own safety and
+the safety of others, including parties for whom they have a professional responsibility.
+To the fullest extent of the law, neither the Publisher nor the authors, contributors,
+or editors, assume any liability for any injury and/or damage to persons or property
+as a matter of products liability, negligence or otherwise, or from any use or operation
+of any methods, products, instructions, or ideas contained in the material herein.
