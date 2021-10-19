@@ -30,6 +30,15 @@ If you are an aspiring data scientist, with a quantitative background and the ga
 dead ahead, you probably know that process is the most significant hurdle between you and a 
 dream job somewhere in a startup or a branch of the big five. You have the ability, but you could use some guidance and preparation
 ## What can it do for me? 
+
+The book’s contents is a large inventory of numerous topics relevant to DL job interviews and graduate-level exams. That places this work at the forefront of the growing trend in science to teach a core set of practical mathematical and computational skills. It is widely accepted that the training of every computer scientist must include the fundamental theorems of ML, and AI appears in the curriculum of nearly every university. This volume is designed as an excellent reference for graduates of such programs:
+●      Hundreds of fully-solved problems
+●      Problems from numerous areas of deep learning
+●      Clear diagrams and illustrations
+●      A comprehensive index
+●      Step-by-step solutions to problems
+●      Not just the answers given, but the work shown
+●      Not just the work shown, but reasoning given where appropriate
  
 ## Citation
 ```
