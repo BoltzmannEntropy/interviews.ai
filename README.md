@@ -1,5 +1,5 @@
 
-<h1 align="center">Interviews.ai: The AI job market has changed beyond recognition. 
+<h1 align="center">Deep Learning Interviews: The AI job market has changed beyond recognition. 
 In this new landscape, finding that first position is more important than ever.</h1>
       
 <p align="center">
@@ -15,7 +15,7 @@ In this new landscape, finding that first position is more important than ever.<
 
 ---
 
-This book was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job. 
+This book (www.interviews.ai) was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job. 
 Even though you have the ability, the background, and the motivation to excel in your target position, you might need some guidance on how to get your foot in the door.
 
 ## About
