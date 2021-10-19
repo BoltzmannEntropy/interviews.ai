@@ -41,7 +41,7 @@ The book’s contents is a large inventory of numerous topics relevant to DL job
 -      Not just the answers given, but the work shown
 -      Not just the work shown, but reasoning given where appropriate
  
-## Cor subject areas
+## Core subject areas
  
 Your curiosity will pull you through the book’s problem sets, formulas, and instructions, and as you progress, you’ll deepen your understanding of deep learning. The connections between calculus, logistic regression, entropy, and deep learning theory are intricate: work through the book, and those connections will feel intuitive. VOLUME-I of the book focuses on statistical perspectives and blends background fundamentals with core ideas and practical knowledge. There are dedicated chapters on: 
 -      Information Theory
