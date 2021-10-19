@@ -29,6 +29,7 @@ complex problems. Hedge funds do everything they can to attract top number crunc
 If you are an aspiring data scientist, with a quantitative background and the gauntlet of the interviewing process 
 dead ahead, you probably know that process is the most significant hurdle between you and a 
 dream job somewhere in a startup or a branch of the big five. You have the ability, but you could use some guidance and preparation
+
 ## What can it do for me? 
 
 The book’s contents is a large inventory of numerous topics relevant to DL job interviews and graduate-level exams. That places this work at the forefront of the growing trend in science to teach a core set of practical mathematical and computational skills. It is widely accepted that the training of every computer scientist must include the fundamental theorems of ML, and AI appears in the curriculum of nearly every university. This volume is designed as an excellent reference for graduates of such programs:
@@ -40,6 +41,17 @@ The book’s contents is a large inventory of numerous topics relevant to DL job
 ●      Not just the answers given, but the work shown
 ●      Not just the work shown, but reasoning given where appropriate
  
+## Cor subject areas
+ 
+Your curiosity will pull you through the book’s problem sets, formulas, and instructions, and as you progress, you’ll deepen your understanding of deep learning. The connections between calculus, logistic regression, entropy, and deep learning theory are intricate: work through the book, and those connections will feel intuitive. VOLUME-I of the book focuses on statistical perspectives and blends background fundamentals with core ideas and practical knowledge. There are dedicated chapters on: 
+●      Information Theory
+●      Calculus & Algorithmic Differentiation
+●      Bayesian Deep Learning & Probabilistic Programming
+●      Logistic Regression
+●      Ensemble Learning
+●      Feature Extraction
+●      Deep Learning: Expanded Chapter (100+ pages)
+These chapters appear alongside numerous in-depth treatments of topics in Deep Learning with code examples in PyTorch, Python and C++. 
 ## Citation
 ```
 @Book{Kashani2019, title = {Deep learning Interviews}, 
