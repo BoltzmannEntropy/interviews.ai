@@ -18,6 +18,15 @@ In this new landscape, finding that first position is more important than ever.<
 
 ## About
 
+In AI, an elite group of researches such as the ones at Google DeepMind, are breaking scientific frontiers time and again. 
+In quantitative algorithms, for instance, a handful of researchers who are at the top of the field can crack challenges 
+that seem otherwise out of reach, developing models that drive future trading.
+
+Those experts rely on years of experience and thorough understanding, and they’re fueled by their love of 
+complex problems. Hedge funds do everything they can to attract top number crunchers longing to crack intractable challenges. 
+If you are an aspiring data scientist, with a quantitative background and the gauntlet of the interviewing process 
+dead ahead, you probably know that process is the most significant hurdle between you and a 
+dream job somewhere in a startup or a branch of the big five. You have the ability, but you could use some guidance and preparation
 ## What can it do for me? 
  
 ## Citation
