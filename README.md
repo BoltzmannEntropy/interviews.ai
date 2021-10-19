@@ -10,7 +10,7 @@ In this new landscape, finding that first position is more important than ever.<
 </p>
 
 <h1 align="center">    
-  <img src="https://github.com/BoltzmannEntropy/interviews.ai/blob/master/asstes/?raw=true" width="80%"></a>  
+  <img src="https://github.com/BoltzmannEntropy/interviews.ai/blob/master/asstes/cover-amazon-print.png?raw=true" width="80%"></a>  
 </h1>
 
 ---
