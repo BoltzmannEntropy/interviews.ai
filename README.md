@@ -1,6 +1,5 @@
 
-<h1 align="center">Deep Learning Interviews: The AI job market has changed beyond recognition. 
-In this new landscape, finding that first position is more important than ever.</h1>
+<h1 align="center">Deep Learning Interviews book: Hundreds of fully solved job interview questions from a wide range of key topics in AI.</h1>
       
 <p align="center">
   <a href="#about">About</a> •
