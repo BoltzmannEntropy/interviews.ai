@@ -16,7 +16,7 @@
 ---
 # Download 
 
-**Like my book? write a review on Amazon.**
+**Like my book? write a review on Amazon: https://www.amazon.com/Deep-Learning-Interviews-interview-questions/dp/1916243568/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=**
 
 **SELLING OR COMMERCIAL USE IS STRICTLY PROHIBITED**.
 The user rights of this e-resource are specified in a licence agreement below. 
