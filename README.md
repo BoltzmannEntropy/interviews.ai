@@ -74,6 +74,10 @@ These chapters appear alongside numerous in-depth treatments of topics in Deep L
 - Copyright © [Shlomo Kashani, author of the book "Deep Learning Interviews"](www.interviews.ai)
 Shlomo Kashani, Author of the book _Deep Learning Interviews_ www.interviews.ai: entropy@interviews.ai
 
+<h1 align="center">    
+  <img src="https://github.com/BoltzmannEntropy/interviews.ai/blob/main/assets/droput2-ans-svg.png" width="100%"></a>  
+</h1>
+
 ALL RIGHTS RESERVED.
 The content contained within this book may not be reproduced, duplicated or transmitted without direct written permission
 from the author or the publisher. Under no circumstances will any blame
