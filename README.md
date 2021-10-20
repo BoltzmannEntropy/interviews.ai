@@ -83,7 +83,8 @@ Shlomo Kashani, Author of the book _Deep Learning Interviews_ www.interviews.ai:
   <img src="https://github.com/BoltzmannEntropy/interviews.ai/blob/main/assets/droput2-ans.png" width="100%"></a>  
 </h1>
 
-ALL RIGHTS RESERVED.
+*ALL RIGHTS RESERVED.*
+
 The content contained within this book may not be reproduced, duplicated or transmitted without direct written permission
 from the author or the publisher. Under no circumstances will any blame
 or legal responsibility be held against the publisher, or author, for any damages,
