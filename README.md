@@ -15,8 +15,8 @@
 ---
 
 **COMMERCIAL USAG IS STRICTLY PROHIBITED**.
-The user rights of this e-resource is specified in licence agreements. 
-Normally, you may only use this e-resource for the purposes *private study*. 
+The user rights of this e-resource are specified in a licence agreement. 
+You may only use this e-resource for the purposes *private study*. 
 Any commercial use is strictly prohibited.
  
 This book (www.interviews.ai) was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job. 
