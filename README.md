@@ -2,6 +2,7 @@
 <h1 align="center">Deep Learning Interviews book: Hundreds of fully solved job interview questions from a wide range of key topics in AI.</h1>
       
 <p align="center">
+ <a href="#download">Download PDF</a> •
   <a href="#about">About</a> •
   <a href="#credits">Credits</a> •  
   <a href="#author">Author</a> •  
@@ -13,13 +14,14 @@
 </h1>
 
 ---
+## Download 
 
 **COMMERCIAL USAG IS STRICTLY PROHIBITED**.
 The user rights of this e-resource are specified in a licence agreement. 
 You may only use this e-resource for the purposes *private study*. 
 Any commercial use is strictly prohibited.
 
-The PDF is available here: 
+### The PDF is available here: 
 https://drive.google.com/file/d/1EAgan7aewt7BjyaEoxnhDHMSuQP58Ii0/view?usp=sharing
 
  
