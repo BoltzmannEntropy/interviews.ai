@@ -18,7 +18,7 @@
 
 **SELLING OR COMMERCIAL USE IS STRICTLY PROHIBITED**.
 The user rights of this e-resource are specified in a licence agreement below. 
-You may only use this e-resource for the purposes *private study* or *interviewing candidates*. 
+You may only use this e-resource for the purposes *private study*. 
 Any selling/reselling of its content is strictly prohibited. 
 
 ### The PDF is available here: 
