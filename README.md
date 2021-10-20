@@ -16,10 +16,10 @@
 ---
 ## Download 
 
-**COMMERCIAL USAG IS STRICTLY PROHIBITED**.
-The user rights of this e-resource are specified in a licence agreement. 
-You may only use this e-resource for the purposes *private study*. 
-Any commercial use is strictly prohibited.
+**SELLING IS STRICTLY PROHIBITED**.
+The user rights of this e-resource are specified in a licence agreement below. 
+You may only use this e-resource for the purposes *private study* or *interviewing candidates*. 
+Any selling/reselling of its content is strictly prohibited. 
 
 ### The PDF is available here: 
 https://drive.google.com/file/d/1EAgan7aewt7BjyaEoxnhDHMSuQP58Ii0/view?usp=sharing
