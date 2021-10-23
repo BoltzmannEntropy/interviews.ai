@@ -24,7 +24,7 @@ You may only use this e-resource for the purposes *private study*.
 Any selling/reselling of its content is strictly prohibited. 
 
 ### The PDF is available here: 
-https://drive.google.com/file/d/1EAgan7aewt7BjyaEoxnhDHMSuQP58Ii0/view?usp=sharing
+https://drive.google.com/drive/folders/1y-wxmGls76EgDTTDYpGuBKeVaO8UZq3F?usp=sharing
 
  
 This book (www.interviews.ai) was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job. 
