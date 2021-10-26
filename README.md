@@ -38,38 +38,38 @@ Even though you have the ability, the background, and the motivation to excel in
 
 ## About
 
-In AI, an elite group of researches such as the ones at Google DeepMind, are breaking scientific frontiers time and again. 
-In quantitative algorithms, for instance, a handful of researchers who are at the top of the field can crack challenges 
-that seem otherwise out of reach, developing models that drive future trading.
+The second edition of Deep Learning Interviews (The Amazon Softcover is printed in B&W) is home to hundreds of fully-solved problems, from a wide range of key topics in AI. It is designed to both rehearse interview or exam specific topics and provide machine learning M.Sc./Ph.D. students, and those awaiting an interview a well-organized overview of the field. The problems it poses are tough enough to cut your teeth on and to dramatically improve your skills-but they’re framed within thought-provoking questions and engaging stories.
 
-Those experts rely on years of experience and thorough understanding, and they’re fueled by their love of 
-complex problems. Hedge funds do everything they can to attract top number crunchers longing to crack intractable challenges. 
-If you are an aspiring data scientist, with a quantitative background and the gauntlet of the interviewing process 
-dead ahead, you probably know that process is the most significant hurdle between you and a 
-dream job somewhere in a startup or a branch of the big five. You have the ability, but you could use some guidance and preparation
+That is what makes the volume so specifically valuable to students and job seekers: it provides them with the ability to speak confidently and quickly on any relevant topic, to answer technical questions clearly and correctly, and to fully understand the purpose and meaning of interview questions and answers. Those are powerful, indispensable advantages to have when walking into the interview room.
 
-## What can it do for me? 
+The book’s contents is a large inventory of numerous topics relevant to DL job interviews and graduate level exams. That places this work at the forefront of the growing trend in science to teach a core set of practical mathematical and computational skills. It is widely accepted that the training of every computer scientist must include the fundamental theorems of ML, and AI appears in the curriculum of nearly every university. This volume is designed as an excellent reference for graduates of such programs.
 
-The book’s contents is a large inventory of numerous topics relevant to DL job interviews and graduate-level exams. That places this work at the forefront of the growing trend in science to teach a core set of practical mathematical and computational skills. It is widely accepted that the training of every computer scientist must include the fundamental theorems of ML, and AI appears in the curriculum of nearly every university. This volume is designed as an excellent reference for graduates of such programs:
--      Hundreds of fully-solved problems
--     Problems from numerous areas of deep learning
--      Clear diagrams and illustrations
--      A comprehensive index
--      Step-by-step solutions to problems
--      Not just the answers given, but the work shown
--      Not just the work shown, but reasoning given where appropriate
+- The book spans almost 400 pages
+- Hundreds of fully-solved problems
+- Problems from numerous areas of deep learning
+- Clear diagrams and illustrations
+- A comprehensive index
+- Step-by-step solutions to problems
+- Not just the answers given, but the work shown
+- Not just the work shown, but reasoning given where appropriate
+
+This book was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job. Even though you have the ability, the background, and the motivation to excel in your target position, you might need some guidance on how to get your foot in the door.
+Your curiosity will pull you through the book’s problem sets, formulas, and instructions, and as you progress, you’ll deepen your understanding of deep learning. There are intricate connections between calculus, logistic regression, entropy, and deep learning theory; work through the book, and those connections will feel intuitive.
+
+## CORE SUBJECT AREAS (VOLUME-I):
+
+VOLUME-I of the book focuses on statistical perspectives and blends background fundamentals with core ideas and practical knowledge. There are dedicated chapters on:
+
+- Information Theory
+- Calculus & Algorithmic Differentiation
+- Bayesian Deep Learning & Probabilistic Programming
+- Logistic Regression
+- Ensemble Learning
+- Feature Extraction
+- Deep Learning: expanded chapter (100+ pages)
+
+These chapters appear alongside numerous in-depth treatments of topics in Deep Learning with code examples in PyTorch, Python and C++.
  
-## Core subject areas
- 
-Your curiosity will pull you through the book’s problem sets, formulas, and instructions, and as you progress, you’ll deepen your understanding of deep learning. The connections between calculus, logistic regression, entropy, and deep learning theory are intricate: work through the book, and those connections will feel intuitive. VOLUME-I of the book focuses on statistical perspectives and blends background fundamentals with core ideas and practical knowledge. There are dedicated chapters on: 
--      Information Theory
--      Calculus & Algorithmic Differentiation
--      Bayesian Deep Learning & Probabilistic Programming
--      Logistic Regression
--      Ensemble Learning
--      Feature Extraction
--      Deep Learning: Expanded Chapter (100+ pages)
-These chapters appear alongside numerous in-depth treatments of topics in Deep Learning with code examples in PyTorch, Python and C++. 
 ## Citation
 ```
 @Book{Kashani2019, title = {Deep learning Interviews}, 
