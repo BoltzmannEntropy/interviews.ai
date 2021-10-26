@@ -10,7 +10,7 @@
 </p>
 
 <h1 align="center">    
-  <img src="https://github.com/BoltzmannEntropy/interviews.ai/blob/main/assets/cover-amazon-print.png" width="100%"></a>  
+  <img src="https://github.com/BoltzmannEntropy/interviews.ai/blob/main/assets/cover-amazon-print2.png" width="100%"></a>  
 </h1>
 
 ---
