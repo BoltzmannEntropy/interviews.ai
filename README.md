@@ -26,6 +26,7 @@ Any selling/reselling of its content is strictly prohibited.
 ### The PDF is available here: 
 https://arxiv.org/abs/2201.00650
 
+'''
 @book{kashani2021deep,
       title={Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI}, 
       author={Shlomo Kashani and Amir Ivry},
@@ -34,7 +35,7 @@ https://arxiv.org/abs/2201.00650
       archivePrefix={arXiv},
       primaryClass={cs.LG}
 }
-
+...
  
 This book (www.interviews.ai) was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job. 
 Even though you have the ability, the background, and the motivation to excel in your target position, you might need some guidance on how to get your foot in the door.
