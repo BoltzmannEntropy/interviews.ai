@@ -26,12 +26,15 @@ Any selling/reselling of its content is strictly prohibited.
 ### The PDF is available here: 
 https://arxiv.org/abs/2201.00650
 
+## Citation
 ```
 @book{kashani2021deep,
       title={Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI}, 
       author={Shlomo Kashani and Amir Ivry},
       year={2021},
       eprint={2201.00650},
+      note = {ISBN 13: 978-1-9162435-4-5 }, 
+      url = {https://www.interviews.ai}, 
       archivePrefix={arXiv},
       primaryClass={cs.LG}
 }
@@ -80,18 +83,6 @@ VOLUME-I of the book focuses on statistical perspectives and blends background f
 
 These chapters appear alongside numerous in-depth treatments of topics in Deep Learning with code examples in PyTorch, Python and C++.
  
-## Citation
-```
-@Book{Kashani2019, title = {Deep learning Interviews}, 
-   author = {Shlomo Kashani}, 
-   publisher = {Shlomo Kashani}, 
-   year = {2020}, 
-   edition = {1st}, 
-   note = {ISBN 13: 978-1-9162435-4-5 }, 
-   url = {https://www.interviews.ai}, 
-}
-```
-
  
 ## Disclaimers
  
