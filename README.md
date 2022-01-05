@@ -28,7 +28,7 @@ https://arxiv.org/abs/2201.00650
 
 ## Citation
 ```
-@book{kashani2021deep,
+@misc{kashani2021deep,
       title={Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI}, 
       author={Shlomo Kashani and Amir Ivry},
       year={2021},
