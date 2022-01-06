@@ -14,7 +14,9 @@
 
 In this first volume, I purposely present a coherent, cumulative, and content-specific core curriculum of the data science field, including topics
 such as information theory, Bayesian statistics, algorithmic differentiation, logistic regression, perceptrons, and convolutional neural networks.
-I hope you will find this book stimulating. It is my belief that you the postgraduate students and job-seekers for whom the book is primarily meant will benefit from
+I hope you will find this book stimulating. 
+
+It is my belief that you the postgraduate students and job-seekers for whom the book is primarily meant will benefit from
 reading it; however, it is my hope that even the most experienced researchers will find it fascinating as well.
 
 ---
