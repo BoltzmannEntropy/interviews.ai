@@ -3,10 +3,7 @@
       
 <p align="center">
  <a href="#download">Download PDF</a> •
-  <a href="#about">About</a> •
-  <a href="#credits">Credits</a> •  
-  <a href="#author">Author</a> •  
-  <a href="#license">License</a>
+  <a href="#about">About</a> •    
 </p>
 
 <h1 align="center">    
@@ -15,13 +12,6 @@
 
 ---
 # Download 
-
-**Like my book? write a review on Amazon: https://www.amazon.com/Deep-Learning-Interviews-interview-questions/dp/1916243568/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=**
-
-**SELLING OR COMMERCIAL USE IS STRICTLY PROHIBITED**.
-The user rights of this e-resource are specified in a licence agreement below. 
-You may only use this e-resource for the purposes *private study*. 
-Any selling/reselling of its content is strictly prohibited. 
 
 ### The PDF is available here: 
 https://arxiv.org/abs/2201.00650
@@ -39,7 +29,14 @@ https://arxiv.org/abs/2201.00650
       primaryClass={cs.LG}
 }
 ```
- 
+
+**Do you like the book? write a review on Amazon: https://www.amazon.com/Deep-Learning-Interviews-interview-questions/dp/1916243568/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=**
+
+**SELLING OR COMMERCIAL USE IS STRICTLY PROHIBITED**.
+The user rights of this e-resource are specified in a licence agreement below. 
+You may only use this e-resource for the purposes *private study*. 
+Any selling/reselling of its content is strictly prohibited. 
+
 This book (www.interviews.ai) was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job. 
 Even though you have the ability, the background, and the motivation to excel in your target position, you might need some guidance on how to get your foot in the door.
 
