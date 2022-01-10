@@ -27,6 +27,7 @@ reading it; however, it is my hope that even the most experienced researchers wi
 
 * https://amazon.com/author/quantscientist
 
+
 * https://www.linkedin.com/in/amirivry/
 
 * https://scholar.google.com.mx/citations?user=rQCVwksAAAAJ&hl=iw
@@ -60,11 +61,6 @@ Any selling/reselling of its content is strictly prohibited.
 This book (www.interviews.ai) was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job. 
 Even though you have the ability, the background, and the motivation to excel in your target position, you might need some guidance on how to get your foot in the door.
 
-<h1 align="center">
-<a href="https://www.amazon.com/Deep-Learning-Interviews-interview-questions/dp/1916243568/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=" target="_blank">
-  <img src="https://github.com/BoltzmannEntropy/interviews.ai/blob/main/assets/amazon-logo.png" width="50%">
-</a>
-</h1>
 
 ## About
 
