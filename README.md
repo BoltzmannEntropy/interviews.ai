@@ -21,15 +21,15 @@ reading it; however, it is my hope that even the most experienced researchers wi
 
 **Follow up for more updates on our work:**
 
-https://www.linkedin.com/in/quantscientist/
+-- https://www.linkedin.com/in/quantscientist/
 
-https://scholar.google.com.mx/citations?user=bM0LGgcAAAAJ&hl=iw&oi=ao
+-- https://scholar.google.com.mx/citations?user=bM0LGgcAAAAJ&hl
 
-https://amazon.com/author/quantscientist
+-- https://amazon.com/author/quantscientist
 
-https://www.linkedin.com/in/amirivry/
+-- https://www.linkedin.com/in/amirivry/
 
-https://scholar.google.com.mx/citations?user=rQCVwksAAAAJ&hl=iw
+-- https://scholar.google.com.mx/citations?user=rQCVwksAAAAJ&hl=iw
 
 
 ---
