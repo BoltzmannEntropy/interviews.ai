@@ -22,6 +22,7 @@ reading it; however, it is my hope that even the most experienced researchers wi
 **Follow up for more updates on our work:**
 
 https://www.linkedin.com/in/quantscientist/
+
 https://amazon.com/author/quantscientist
 
 https://www.linkedin.com/in/amirivry/
