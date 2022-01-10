@@ -19,11 +19,12 @@ I hope you will find this book stimulating.
 It is my belief that you the postgraduate students and job-seekers for whom the book is primarily meant will benefit from
 reading it; however, it is my hope that even the most experienced researchers will find it fascinating as well.
 
-**Follow up on #LinkedIn for more updates on our work:**
-
-https://www.linkedin.com/in/amirivry/
+**Follow up for more updates on our work:**
 
 https://www.linkedin.com/in/quantscientist/
+https://amazon.com/author/quantscientist
+
+https://www.linkedin.com/in/amirivry/
 
 ---
 # Download 
@@ -44,8 +45,6 @@ https://arxiv.org/abs/2201.00650
       primaryClass={cs.LG}
 }
 ```
-
-**Do you like the book? write a review on Amazon: https://www.amazon.com/Deep-Learning-Interviews-interview-questions/dp/1916243568/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=**
 
 **SELLING OR COMMERCIAL USE IS STRICTLY PROHIBITED**.
 The user rights of this e-resource are specified in a licence agreement below. 
