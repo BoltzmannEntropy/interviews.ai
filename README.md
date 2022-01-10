@@ -23,9 +23,14 @@ reading it; however, it is my hope that even the most experienced researchers wi
 
 https://www.linkedin.com/in/quantscientist/
 
+https://scholar.google.com.mx/citations?user=bM0LGgcAAAAJ&hl=iw&oi=ao
+
 https://amazon.com/author/quantscientist
 
 https://www.linkedin.com/in/amirivry/
+
+https://scholar.google.com.mx/citations?user=rQCVwksAAAAJ&hl=iw
+
 
 ---
 # Download 
