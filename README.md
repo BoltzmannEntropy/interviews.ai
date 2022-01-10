@@ -20,6 +20,7 @@ It is my belief that you the postgraduate students and job-seekers for whom the 
 reading it; however, it is my hope that even the most experienced researchers will find it fascinating as well.
 
 **Follow up on #LinkedIn for more updates on our work:**
+
 https://www.linkedin.com/in/amirivry/
 
 https://www.linkedin.com/in/quantscientist/
