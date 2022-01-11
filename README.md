@@ -111,7 +111,7 @@ These chapters appear alongside numerous in-depth treatments of topics in Deep L
 Shlomo Kashani, Author of the book _Deep Learning Interviews_ www.interviews.ai: entropy@interviews.ai
 
 <h1 align="center">    
-  <img src="https://github.com/BoltzmannEntropy/interviews.ai/blob/main/assets/droput2-ans.png" width="100%"></a>  
+  <img src="https://github.com/BoltzmannEntropy/interviews.ai/blob/main/assets/droput2-ans.png" width="50%"></a>  
 </h1>
 
 # Errata (May not be up to date)
