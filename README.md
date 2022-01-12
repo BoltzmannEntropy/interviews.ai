@@ -20,6 +20,8 @@ I hope you will find this book stimulating.
 It is my belief that you the postgraduate students and job-seekers for whom the book is primarily meant will benefit from
 reading it; however, it is my hope that even the most experienced researchers will find it fascinating as well.
 
+## **I would like to solicit corrections, criticisms, and suggestions from students and other readers. Although I have tried to eliminate errors over the multi year process of writing and revising this text, a few undoubtedly remain. In particular, some typographical infelicities will no doubt find their way into the final version.** **I hope you will forgive them.**
+
 **Amir:**
 
 * https://www.linkedin.com/in/amirivry/
@@ -115,8 +117,6 @@ Shlomo Kashani, Author of the book _Deep Learning Interviews_ www.interviews.ai:
 </h1>
 
 # Errata (May not be up to date)
-
-## **I would like to solicit corrections, criticisms, and suggestions from students and other readers. Although I have tried to eliminate errors over the multi year process of writing and revising this text, a few undoubtedly remain. In particular, some typographical infelicities will no doubt find their way into the final version.** **I hope you will forgive them.**
 ## ***Minor corrections are not included.*** 
 
 Thank you to all the readers who pointed out these issues. 
