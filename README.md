@@ -30,7 +30,6 @@ reading it; however, it is my hope that even the most experienced researchers wi
 
 
 **Shlomo:**
-* http://i.imgur.com/9I6NRUm.png https://github.com/BoltzmannEntropy
 
 * https://www.linkedin.com/in/quantscientist/
 
