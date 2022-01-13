@@ -22,14 +22,14 @@ reading it; however, it is my hope that even the most experienced researchers wi
 
 ## **I would like to solicit corrections, criticisms, and suggestions from students and other readers. Although I have tried to eliminate errors over the multi year process of writing and revising this text, a few undoubtedly remain. In particular, some typographical infelicities will no doubt find their way into the final version.** **I hope you will forgive them.**
 
-**Amir:**
+**Contact Amir:**
 
 * https://www.linkedin.com/in/amirivry/
 
 * https://scholar.google.com.mx/citations?user=rQCVwksAAAAJ&hl=iw
 
 
-**Shlomo:**
+**Contact Shlomo:**
 
 * https://www.linkedin.com/in/quantscientist/
 
