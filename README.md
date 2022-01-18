@@ -35,6 +35,9 @@ reading it; however, it is my hope that even the most experienced researchers wi
 
 * https://scholar.google.com.mx/citations?user=bM0LGgcAAAAJ&hl
 
+
+This book is available for purchase through Amazon and other standard distribution channels. Please see the publisher's web page to order the book or to obtain further details on its publication. A manuscript of the book can be found below—it has been made available for personal use only and must not be sold.
+
 * https://amazon.com/author/quantscientist
 
 
