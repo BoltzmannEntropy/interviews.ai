@@ -12,6 +12,7 @@
 </h1>
 
 # A PERSONAL NOTE: 
+"Keep learning, or risk becoming irrelevant."
 
 In this first volume, I purposely present a coherent, cumulative, and content-specific core curriculum of the data science field, including topics
 such as information theory, Bayesian statistics, algorithmic differentiation, logistic regression, perceptrons, and convolutional neural networks.
