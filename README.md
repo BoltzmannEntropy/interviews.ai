@@ -2,10 +2,54 @@
 <h1 align="center">Deep Learning Interviews book: Hundreds of fully solved job interview questions from a wide range of key topics in AI https://interviews.ai</h1>
       
 <p align="center">
+ <a href="#third-edition-in-preparation">Third edition</a> •
  <a href="#download">Download PDF</a> •
   <a href="#about">About</a> •    
   <a href="#about">Errata</a> •    
 </p>
+
+# Third edition (in preparation)
+
+<p align="center">
+  <img src="https://github.com/BoltzmannEntropy/interviews.ai/blob/main/assets/deep-learning-interviews-third-edition-cover.png" width="45%">
+</p>
+
+The third edition joins this book with *The Art and Science of Generative AI*. It keeps the deep learning core and adds diffusion models, large language models, and the engineering that trains and serves them.
+
+Interviewers now ask about forward and reverse diffusion, the KV cache, and how a team aligns and serves a large model. You work each answer out from first principles, line by line.
+
+- 560 solved problems in 21 chapters, with 124 figures
+- Every problem comes with a full solution, derived in numbered equations you can follow with pencil and paper
+- Each problem carries a level (easy, standard or hard) and a role (core, reinforcement, transfer or advanced), so you can work the core problems first when an interview is close
+- The figures share one drawing style and print in grayscale, so they read the same on paper as on a screen
+
+| Part | Chapter | Problems |
+| --- | --- | ---: |
+| I. Mathematical Foundations | Logistic Regression | 26 |
+| | Probabilistic Programming and Bayesian Deep Learning | 36 |
+| | Information Theory | 32 |
+| | Deep Learning Calculus | 36 |
+| | Probability and Inference for Generative Models | 34 |
+| II. Deep Neural Networks | Cross Validation, Convolution and Similarity | 29 |
+| | Perceptrons and Activation Functions | 21 |
+| | Metrics, Layers, Training and Loss | 40 |
+| | Neural Network Ensembles | 22 |
+| | Feature Extraction and Transfer Learning | 20 |
+| | Architectures for Generative Models | 30 |
+| III. Diffusion Models (new) | Generative Models and the Diffusion Idea | 20 |
+| | Stochastic Processes and Stochastic Calculus | 42 |
+| | Forward and Reverse Diffusion | 35 |
+| | Denoising Diffusion in Practice | 32 |
+| IV. Large Language Models (new) | Autoregressive Language Models | 18 |
+| | Tokens, Data, Scaling and In-Context Learning | 19 |
+| | Efficient Attention Families | 26 |
+| | Training and Optimization at Scale | 13 |
+| | Alignment and Preference Optimization | 13 |
+| | Inference Systems: Caching, Batching and Serving | 16 |
+
+The third edition is not on sale yet, and its cover may change. The second edition stays available as a free PDF and in print, and the rest of this page describes it.
+
+# Second edition
 
 <h1 align="center">    
   <img src="https://github.com/BoltzmannEntropy/interviews.ai/blob/main/assets/cover-amazon-print2.png" width="100%"></a>  
