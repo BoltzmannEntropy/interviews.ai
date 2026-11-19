@@ -1,27 +1,50 @@
+<div align="center">
+  <img src="assets/deep-learning-interviews-third-edition-cover.png" alt="Deep Learning Interviews, third edition, front cover" width="360"/>
+  <br><br>
+  <code>Third edition</code>&nbsp;&nbsp;in preparation · Second edition free on arXiv and in print
+  <br><br>
+  <h1>Deep Learning Interviews</h1>
+  <p>Hundreds of fully solved job interview questions from a wide range of key topics in AI.<br>A problem book with full solutions, from logistic regression to large language models.</p>
+  <br>
+  <a href="https://interviews.ai"><strong>Website</strong></a>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;<a href="https://arxiv.org/abs/2201.00650"><strong>Free PDF (second edition)</strong></a>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;<a href="https://amazon.com/author/quantscientist"><strong>Buy on Amazon</strong></a>
+  <br><br>
+  Shlomo Kashani
+  <br><br>
+</div>
 
-<h1 align="center">Deep Learning Interviews book: Hundreds of fully solved job interview questions from a wide range of key topics in AI https://interviews.ai</h1>
-      
-<p align="center">
- <a href="#third-edition-in-preparation">Third edition</a> •
- <a href="#download">Download PDF</a> •
-  <a href="#about">About</a> •    
-  <a href="#about">Errata</a> •    
-</p>
+> **Mathematical Foundations** | **Deep Neural Networks** | **Diffusion Models** | **Large Language Models**
 
-# Third edition (in preparation)
+*Deep Learning Interviews* is a problem book for people who prepare for deep learning job interviews and graduate-level exams. Every problem comes with a worked solution. The **second edition** is free to read as a PDF and is sold in print. The **third edition** is in preparation. It keeps the deep learning core and adds diffusion models, large language models, and the engineering that trains and serves them.
 
-<p align="center">
-  <img src="https://github.com/BoltzmannEntropy/interviews.ai/blob/main/assets/deep-learning-interviews-third-edition-cover.png" width="45%">
-</p>
+## Editions
+
+| Edition | Status | Contents | Where |
+|---------|--------|----------|-------|
+| **Third** | In preparation, not on sale yet | 582 solved problems, 21 chapters, 124 figures | [Contents below](#third-edition) |
+| **Second** | Available | Hundreds of solved problems, 7 subject areas, almost 400 pages | [PDF on arXiv](https://arxiv.org/abs/2201.00650) · [Print on Amazon](https://amazon.com/author/quantscientist) |
+
+## Stars
+
+[![GitHub Stars](https://img.shields.io/github/stars/BoltzmannEntropy/interviews.ai?style=social)](https://github.com/BoltzmannEntropy/interviews.ai/stargazers)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=BoltzmannEntropy/interviews.ai&type=Date)](https://star-history.com/#BoltzmannEntropy/interviews.ai&Date)
+
+---
+
+## Third Edition
 
 The third edition joins this book with *The Art and Science of Generative AI*. It keeps the deep learning core and adds diffusion models, large language models, and the engineering that trains and serves them.
 
 Interviewers now ask about forward and reverse diffusion, the KV cache, and how a team aligns and serves a large model. You work each answer out from first principles, line by line.
 
-- 560 solved problems in 21 chapters, with 124 figures
-- Every problem comes with a full solution, derived in numbered equations you can follow with pencil and paper
-- Each problem carries a level (easy, standard or hard) and a role (core, reinforcement, transfer or advanced), so you can work the core problems first when an interview is close
-- The figures share one drawing style and print in grayscale, so they read the same on paper as on a screen
+| | |
+|---|---|
+| **Problems** | 582, every one with a full solution derived in numbered equations |
+| **Chapters** | 21, in four parts |
+| **Figures** | 124, in one drawing style, printed in grayscale |
+| **Labels** | Each problem carries a level and a role |
+
+### Contents
 
 | Part | Chapter | Problems |
 | --- | --- | ---: |
@@ -36,87 +59,43 @@ Interviewers now ask about forward and reverse diffusion, the KV cache, and how 
 | | Neural Network Ensembles | 22 |
 | | Feature Extraction and Transfer Learning | 20 |
 | | Architectures for Generative Models | 30 |
-| III. Diffusion Models (new) | Generative Models and the Diffusion Idea | 20 |
-| | Stochastic Processes and Stochastic Calculus | 42 |
-| | Forward and Reverse Diffusion | 35 |
-| | Denoising Diffusion in Practice | 32 |
-| IV. Large Language Models (new) | Autoregressive Language Models | 18 |
-| | Tokens, Data, Scaling and In-Context Learning | 19 |
-| | Efficient Attention Families | 26 |
-| | Training and Optimization at Scale | 13 |
-| | Alignment and Preference Optimization | 13 |
+| III. Diffusion Models (new) | Generative Models and the Diffusion Idea | 9 |
+| | Stochastic Processes and Stochastic Calculus | 43 |
+| | Forward and Reverse Diffusion | 50 |
+| | Denoising Diffusion in Practice | 39 |
+| IV. Large Language Models (new) | Autoregressive Language Models | 22 |
+| | Tokens, Data, Scaling and In-Context Learning | 21 |
+| | Efficient Attention Families | 22 |
+| | Training and Optimization at Scale | 15 |
+| | Alignment and Preference Optimization | 19 |
 | | Inference Systems: Caching, Batching and Serving | 16 |
 
-The third edition is not on sale yet, and its cover may change. The second edition stays available as a free PDF and in print, and the rest of this page describes it.
+### How a Problem Is Labelled
 
-# Second edition
+| Label | Values | Meaning |
+|-------|--------|---------|
+| **Level** | easy, standard, hard | An easy problem asks for one idea in a short calculation. A hard problem combines several ideas at the difficulty of a hard exam. A standard problem lies between the two. |
+| **Role** | core, reinforcement, transfer, advanced | A core problem carries the main line of its chapter. A reinforcement problem drills a core idea. A transfer problem moves the idea into code or a new setting. An advanced problem goes beyond what a course would teach. |
 
-<h1 align="center">    
-  <img src="https://github.com/BoltzmannEntropy/interviews.ai/blob/main/assets/cover-amazon-print2.png" width="100%"></a>  
-</h1>
+If your interview is close, work the core problems first.
 
-# A PERSONAL NOTE: 
-"Keep learning, or risk becoming irrelevant."
+The third edition is not on sale yet, and its cover may change.
 
-In this first volume, I purposely present a coherent, cumulative, and content-specific core curriculum of the data science field, including topics
-such as information theory, Bayesian statistics, algorithmic differentiation, logistic regression, perceptrons, and convolutional neural networks.
-I hope you will find this book stimulating. 
+---
 
-It is my belief that you the postgraduate students and job-seekers for whom the book is primarily meant will benefit from
-reading it; however, it is my hope that even the most experienced researchers will find it fascinating as well.
+## Second Edition
 
-## **I would like to solicit corrections, criticisms, and suggestions from students and other readers. Although I have tried to eliminate errors over the multi year process of writing and revising this text, a few undoubtedly remain. In particular, some typographical infelicities will no doubt find their way into the final version.** **I hope you will forgive them.**
+![Deep Learning Interviews, second edition](assets/cover-amazon-print2.png)
 
-**Contact Amir:**
+### Download
 
-* https://www.linkedin.com/in/amirivry/
-
-* https://scholar.google.com.mx/citations?user=rQCVwksAAAAJ&hl=iw
-
-
-**Contact Shlomo:**
-
-* https://www.linkedin.com/in/quantscientist/
-
-* https://scholar.google.com.mx/citations?user=bM0LGgcAAAAJ&hl
-
+**The PDF is available here:** https://arxiv.org/abs/2201.00650
 
 This book is available for purchase through Amazon and other standard distribution channels. Please see the publisher's web page to order the book or to obtain further details on its publication. A manuscript of the book can be found below—it has been made available for personal use only and must not be sold.
 
 * https://amazon.com/author/quantscientist
 
-
-
----
-# Download 
-
-### The PDF is available here: 
-https://arxiv.org/abs/2201.00650
-
-## Citation
-```
-@misc{kashani2021deep,
-      title={Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI}, 
-      author={Shlomo Kashani and Amir Ivry},
-      year={2021},
-      eprint={2201.00650},
-      note = {ISBN 13: 978-1-9162435-4-5 }, 
-      url = {https://www.interviews.ai}, 
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-```
-
-**SELLING OR COMMERCIAL USE IS STRICTLY PROHIBITED**.
-The user rights of this e-resource are specified in a licence agreement below. 
-You may only use this e-resource for the purposes *private study*. 
-Any selling/reselling of its content is strictly prohibited. 
-
-This book (www.interviews.ai) was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job. 
-Even though you have the ability, the background, and the motivation to excel in your target position, you might need some guidance on how to get your foot in the door.
-
-
-## About
+### About
 
 The second edition of Deep Learning Interviews (The Amazon Softcover is printed in B&W) is home to hundreds of fully-solved problems, from a wide range of key topics in AI. It is designed to both rehearse interview or exam specific topics and provide machine learning M.Sc./Ph.D. students, and those awaiting an interview a well-organized overview of the field. The problems it poses are tough enough to cut your teeth on and to dramatically improve your skills-but they’re framed within thought-provoking questions and engaging stories.
 
@@ -136,7 +115,7 @@ The book’s contents is a large inventory of numerous topics relevant to DL job
 This book was written for you: an aspiring data scientist with a quantitative background, facing down the gauntlet of the interview process in an increasingly competitive field. For most of you, the interview process is the most significant hurdle between you and a dream job. Even though you have the ability, the background, and the motivation to excel in your target position, you might need some guidance on how to get your foot in the door.
 Your curiosity will pull you through the book’s problem sets, formulas, and instructions, and as you progress, you’ll deepen your understanding of deep learning. There are intricate connections between calculus, logistic regression, entropy, and deep learning theory; work through the book, and those connections will feel intuitive.
 
-## CORE SUBJECT AREAS (VOLUME-I):
+### Core Subject Areas (Volume I)
 
 VOLUME-I of the book focuses on statistical perspectives and blends background fundamentals with core ideas and practical knowledge. There are dedicated chapters on:
 
@@ -149,23 +128,32 @@ VOLUME-I of the book focuses on statistical perspectives and blends background f
 - Deep Learning: expanded chapter (100+ pages)
 
 These chapters appear alongside numerous in-depth treatments of topics in Deep Learning with code examples in PyTorch, Python and C++.
- 
- 
-## Disclaimers
- 
- - "PyTorch" is a trademark of Facebook.
 
-## Licensing
+![Sample solution from the second edition](assets/droput2-ans.png)
 
-- Copyright © [Shlomo Kashani, author of the book "Deep Learning Interviews"](www.interviews.ai)
-Shlomo Kashani, Author of the book _Deep Learning Interviews_ www.interviews.ai: entropy@interviews.ai
+---
 
-<h1 align="center">    
-  <img src="https://github.com/BoltzmannEntropy/interviews.ai/blob/main/assets/droput2-ans.png" width="50%"></a>  
-</h1>
+## A Personal Note
 
-# Errata (May not be up to date)
-## ***Minor corrections are not included.*** 
+> "Keep learning, or risk becoming irrelevant."
+
+In this first volume, I purposely present a coherent, cumulative, and content-specific core curriculum of the data science field, including topics
+such as information theory, Bayesian statistics, algorithmic differentiation, logistic regression, perceptrons, and convolutional neural networks.
+I hope you will find this book stimulating. 
+
+It is my belief that you the postgraduate students and job-seekers for whom the book is primarily meant will benefit from
+reading it; however, it is my hope that even the most experienced researchers will find it fascinating as well.
+
+**I would like to solicit corrections, criticisms, and suggestions from students and other readers. Although I have tried to eliminate errors over the multi year process of writing and revising this text, a few undoubtedly remain. In particular, some typographical infelicities will no doubt find their way into the final version.** **I hope you will forgive them.**
+
+---
+
+## Errata (Second Edition)
+
+<details>
+<summary><b>Show the errata of the second edition</b> (may not be up to date; minor corrections are not included)</summary>
+
+<br>
 
 Thank you to all the readers who pointed out these issues. 
 **Errata for the version** **03/12/2020** **printing and reflected in the online version:**
@@ -220,6 +208,56 @@ Thank you to all the readers who pointed out these issues.
 1. Page 78,  Solution number **SOL-64** , the OnOffLayer is off only if at least 150 out of 200 neurons are off. Therefore, this may be represented as a Binomial distribution  and the probability for the layer to be off is :
 ![2020-12-24 21_08_52-E__Sync_branded_interviews.ai_amazon_21-12-2020_chap_bayes.tex - TeXstudio.png](https://images.squarespace-cdn.com/content/v1/5c33c435f93fd4233f157b43/1608836963860-U8ZD3L5L4IL5QKOAUZD8/2020-12-24+21_08_52-E__Sync_branded_interviews.ai_amazon_21-12-2020_chap_bayes.tex+-+TeXstudio.png?format=750w)
 
+</details>
 
+---
 
+## Authors
 
+| | |
+|---|---|
+| **Author** | Shlomo Kashani · [LinkedIn](https://www.linkedin.com/in/quantscientist/) · [Google Scholar](https://scholar.google.com.mx/citations?user=bM0LGgcAAAAJ&hl) |
+| **Co-author, second edition** | Amir Ivry · [LinkedIn](https://www.linkedin.com/in/amirivry/) · [Google Scholar](https://scholar.google.com.mx/citations?user=rQCVwksAAAAJ&hl=iw) |
+| **Contact** | entropy@interviews.ai |
+
+---
+
+## Citation
+
+```bibtex
+@misc{kashani2021deep,
+      title={Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI},
+      author={Shlomo Kashani and Amir Ivry},
+      year={2021},
+      eprint={2201.00650},
+      note = {ISBN 13: 978-1-9162435-4-5 },
+      url = {https://www.interviews.ai},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+**APA Format:**
+
+Kashani, S., & Ivry, A. (2021). *Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI* (2nd ed.). arXiv:2201.00650. https://www.interviews.ai
+
+**IEEE Format:**
+
+S. Kashani and A. Ivry, "Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI," 2nd ed., arXiv:2201.00650, 2021. [Online]. Available: https://www.interviews.ai
+
+---
+
+## License
+
+- Copyright © [Shlomo Kashani, author of the book "Deep Learning Interviews"](https://www.interviews.ai)
+
+**SELLING OR COMMERCIAL USE IS STRICTLY PROHIBITED**.
+The user rights of this e-resource are specified in a licence agreement below.
+You may only use this e-resource for the purposes *private study*.
+Any selling/reselling of its content is strictly prohibited.
+
+---
+
+## Disclaimers
+
+- "PyTorch" is a trademark of Facebook.
