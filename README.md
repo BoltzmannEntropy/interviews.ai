@@ -39,6 +39,7 @@ Interviewers now ask about forward and reverse diffusion, the KV cache, and how 
 
 | | |
 |---|---|
+| **Author** | Shlomo Kashani |
 | **Problems** | 582, every one with a full solution derived in numbered equations |
 | **Chapters** | 21, in four parts |
 | **Figures** | 124, in one drawing style, printed in grayscale |
@@ -217,12 +218,12 @@ Thank you to all the readers who pointed out these issues.
 | | |
 |---|---|
 | **Author** | Shlomo Kashani · [LinkedIn](https://www.linkedin.com/in/quantscientist/) · [Google Scholar](https://scholar.google.com.mx/citations?user=bM0LGgcAAAAJ&hl) |
-| **Co-author, second edition** | Amir Ivry · [LinkedIn](https://www.linkedin.com/in/amirivry/) · [Google Scholar](https://scholar.google.com.mx/citations?user=rQCVwksAAAAJ&hl=iw) |
-| **Contact** | entropy@interviews.ai |
 
 ---
 
 ## Citation
+
+The citation below is for the second edition, the one on arXiv.
 
 ```bibtex
 @misc{kashani2021deep,
