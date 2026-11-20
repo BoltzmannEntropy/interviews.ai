@@ -223,6 +223,33 @@ Thank you to all the readers who pointed out these issues.
 
 ## Citation
 
+### Third Edition
+
+The third edition is in preparation.
+
+```bibtex
+@book{kashani2026deep,
+      title={Deep Learning Interviews: Hundreds of Fully Solved Problems, from Logistic Regression to Diffusion Models and Large Language Models},
+      author={Shlomo Kashani},
+      edition={Third},
+      year={2026},
+      publisher={Interviews AI},
+      address={Jerusalem, Israel},
+      note={In preparation},
+      url={https://www.interviews.ai}
+}
+```
+
+**APA Format:**
+
+Kashani, S. (2026). *Deep Learning Interviews: Hundreds of fully solved problems, from logistic regression to diffusion models and large language models* (3rd ed.) [Manuscript in preparation]. Interviews AI. https://www.interviews.ai
+
+**IEEE Format:**
+
+S. Kashani, *Deep Learning Interviews: Hundreds of Fully Solved Problems, from Logistic Regression to Diffusion Models and Large Language Models*, 3rd ed. Jerusalem, Israel: Interviews AI, 2026, in preparation. [Online]. Available: https://www.interviews.ai
+
+### Second Edition
+
 The citation below is for the second edition, the one on arXiv.
 
 ```bibtex
