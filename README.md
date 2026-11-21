@@ -27,7 +27,7 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/BoltzmannEntropy/interviews.ai?style=social)](https://github.com/BoltzmannEntropy/interviews.ai/stargazers)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=BoltzmannEntropy/interviews.ai&type=Date)](https://star-history.com/#BoltzmannEntropy/interviews.ai&Date)
+[![Star History Chart](assets/star-history.png)](https://star-history.com/#BoltzmannEntropy/interviews.ai&Date)
 
 ---
 
